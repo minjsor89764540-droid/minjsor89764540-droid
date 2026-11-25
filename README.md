@@ -40,11 +40,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=minjsor89764540-droid&show_icons=true&theme=midnight-purple&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjsor89764540-droid&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
-Ил
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minjsor89764540-droid&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjsor89764540-droid&layout=compact&theme=tokyonight&hide_border=true" />
