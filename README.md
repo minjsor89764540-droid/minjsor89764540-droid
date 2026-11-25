@@ -34,10 +34,6 @@
   <img src="https://img.shields.io/badge/Software%20Engineering-8B5CF6?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge&logo=web&logoColor=white" />
 </p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode" />
-</p>
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
