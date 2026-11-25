@@ -23,3 +23,12 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode" />
 </p>
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minjsor89764540-droid&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjsor89764540-droid&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
