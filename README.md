@@ -18,8 +18,8 @@
 
 * GitHub: @minjsor89764540-droid
 
-⸻
+<h3>🛠️ Tech Stack</h3>
 
-<p align="center">
-  <i>Learning every day. Building my future. 🚀</i>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,vscode" />
 </p>
