@@ -40,10 +40,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=minjsor89764540-droid&show_icons=true&theme=midnight-purple&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjsor89764540-droid&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjsor89764540-droid&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Learning+Every+Day;Building+My+Future"/>
 </p>
